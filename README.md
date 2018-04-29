@@ -1,8 +1,12 @@
 # AzlBot
 RF auto
 Using Jeff Pang Interceptor Library https://github.com/jasonpang/Interceptor
-Using Wrapper Interceptor  http://oblita.com/Interception
+and Using Wrapper Interceptor  http://oblita.com/Interception
 
+Installation:
+1.download the wrapper and follow the instructions what the author says.
+2.copy and paste the interceptor.dll to azlbot >> bin >> debug
+3.launch azlbot using command prompt.
 
 Sending Keyboard strokes to RF window
 
