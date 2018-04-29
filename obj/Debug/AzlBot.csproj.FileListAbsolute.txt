@@ -1,0 +1,8 @@
+C:\Flote\Developer\C#\CFByPass\Bots\AzlBot\AzlBot\AzlBot\bin\Debug\AzlBot.exe.config
+C:\Flote\Developer\C#\CFByPass\Bots\AzlBot\AzlBot\AzlBot\bin\Debug\AzlBot.exe
+C:\Flote\Developer\C#\CFByPass\Bots\AzlBot\AzlBot\AzlBot\bin\Debug\AzlBot.pdb
+C:\Flote\Developer\C#\CFByPass\Bots\AzlBot\AzlBot\AzlBot\obj\Debug\AzlBot.exe
+C:\Flote\Developer\C#\CFByPass\Bots\AzlBot\AzlBot\AzlBot\obj\Debug\AzlBot.pdb
+C:\Flote\Developer\C#\CFByPass\Bots\AzlBot\AzlBot\AzlBot\bin\Debug\Interceptor.dll
+C:\Flote\Developer\C#\CFByPass\Bots\AzlBot\AzlBot\AzlBot\bin\Debug\Interceptor.pdb
+C:\Flote\Developer\C#\CFByPass\Bots\AzlBot\AzlBot\AzlBot\obj\Debug\AzlBot.csprojResolveAssemblyReference.cache
