@@ -270,42 +270,7 @@ namespace AzlBot
                                 input.SendKey(Keys.Space, KeyState.Down);
                                 Thread.Sleep(1);
                                 input.SendKey(Keys.Space, KeyState.Up);
-                                Thread.Sleep(1); // addtional only for looting
-                                input.SendKey(Keys.Space, KeyState.Down);
-                                Thread.Sleep(1);
-                                input.SendKey(Keys.Space, KeyState.Up);
-                                Thread.Sleep(1);
-                                input.SendKey(Keys.Space, KeyState.Down);
-                                Thread.Sleep(1);
-                                input.SendKey(Keys.Space, KeyState.Up);
-                                Thread.Sleep(1); // addtional only for looting
-                                input.SendKey(Keys.Space, KeyState.Down);
-                                Thread.Sleep(1);
-                                input.SendKey(Keys.Space, KeyState.Up);
-                                Thread.Sleep(1);
-                                input.SendKey(Keys.Space, KeyState.Down);
-                                Thread.Sleep(1);
-                                input.SendKey(Keys.Space, KeyState.Up);
-                                Thread.Sleep(1); // addtional only for looting
-                                input.SendKey(Keys.Space, KeyState.Down);
-                                Thread.Sleep(1);
-                                input.SendKey(Keys.Space, KeyState.Up);
-                                Thread.Sleep(1);
-                                input.SendKey(Keys.Space, KeyState.Down);
-                                Thread.Sleep(1);
-                                input.SendKey(Keys.Space, KeyState.Up);
-                                Thread.Sleep(1); // addtional only for looting
-                                input.SendKey(Keys.Space, KeyState.Down);
-                                Thread.Sleep(1); 
-                                input.SendKey(Keys.Space, KeyState.Up);
-                                Thread.Sleep(1);
-                                input.SendKey(Keys.Space, KeyState.Down);
-                                Thread.Sleep(1);
-                                input.SendKey(Keys.Space, KeyState.Up);
-                                Thread.Sleep(1); // addtional only for looting
-                                input.SendKey(Keys.Space, KeyState.Down);
-                                Thread.Sleep(1);
-                                input.SendKey(Keys.Space, KeyState.Up);
+                                Thread.Sleep(1); // addtional only for looting                              
                                 Console.WriteLine(ctr);
                                 Thread.Sleep(1000);
 
